@@ -18,7 +18,7 @@ API RESTful desarrollada para la gestión de alumnos, materias y notas, simuland
  **Validaciones:** Control de integridad de datos (Email válido, campos obligatorios) con Jakarta Validation.
  **Documentación Automática:** Interfaz visual para probar la API con Swagger.
 
-## 🛠️ Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 
 ### Prerrequisitos
 * Java 17 o superior
